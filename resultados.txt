@@ -1,0 +1,9 @@
+============================= test session starts =============================
+platform win32 -- Python 3.9.12, pytest-7.1.1, pluggy-1.0.0
+rootdir: C:\Users\Rodri\OneDrive\Documentos\PythonProjetos\Trabalho02
+plugins: anyio-3.5.0
+collected 4 items
+
+tests.py ....                                                            [100%]
+
+============================== 4 passed in 0.03s ==============================
